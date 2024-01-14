@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ITB\AutoEncoder_shared\AutoEncoder_dumbo
+vCLA
+Z1 I11Al9eaJ?>kVn;=`?WdMS2
+Z2 VX;jcOD13?BM^TQFzA@A5R1
+Z3 dD:\ITB\AutoEncoder_shared\AutoEncoder_dumbo
+Z4 w1705240378
+Z5 8D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/CLA.v
+Z6 FD:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/CLA.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1705240384.311000
+Z9 !s107 four_bit_adder.v|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/CLA.v|
+Z10 !s90 -reportprogress|300|-work|work|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/CLA.v|
+Z11 o-work work -O0
+Z12 n@c@l@a
+!i10b 1
+Z13 !s100 6PFiOa^hA0`nT7[Vn?iDY2
+!s85 0
+!s101 -O0
+vfour_bit_adder
+!i10b 1
+!s100 0TTdgc>G^X<LZAjza`ZRm2
+IEKmQYbmY3EIPI9>VT6c:h3
+Z14 V<m<U8>ddgGdSV;0<D5N@A3
+R3
+w1705240307
+8D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/four_bit_adder.v
+FD:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/four_bit_adder.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1705240384.468000
+!s107 D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/four_bit_adder.v|
+!s90 -reportprogress|300|-work|work|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/four_bit_adder.v|
+!s101 -O0
+R11
