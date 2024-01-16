@@ -19,26 +19,64 @@ Z9 !s107 four_bit_adder.v|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/CLA.v|
 Z10 !s90 -reportprogress|300|-work|work|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/CLA.v|
 Z11 o-work work -O0
 Z12 n@c@l@a
-!i10b 1
 Z13 !s100 6PFiOa^hA0`nT7[Vn?iDY2
+!i10b 1
 !s85 0
 !s101 -O0
 vfour_bit_adder
-!i10b 1
-!s100 0TTdgc>G^X<LZAjza`ZRm2
-IEKmQYbmY3EIPI9>VT6c:h3
-Z14 V<m<U8>ddgGdSV;0<D5N@A3
+Z14 !s100 NV]4ZX^R8_BkW=PWbd]Y=3
+Z15 Il8UBfFQX8@B_b3g?eYDF31
+Z16 V<m<U8>ddgGdSV;0<D5N@A3
 R3
-w1705240307
-8D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/four_bit_adder.v
-FD:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/four_bit_adder.v
+Z17 w1705385444
+Z18 8D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/four_bit_adder.v
+Z19 FD:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/four_bit_adder.v
 L0 1
+R7
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/four_bit_adder.v|
+R11
+Z21 !s108 1705396319.190000
+Z22 !s107 D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/four_bit_adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmult
+Z23 !s100 Yc:]_`=H0=`^2SKPG<cQW3
+Z24 I5lW;OiUi>9<C]87Cm3;d30
+Z25 VWQFo[7iKoQ3E`CC>PUHlo1
+R3
+Z26 w1705392260
+Z27 8D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mult.v
+Z28 FD:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mult.v
+L0 8
+R7
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mult.v|
+R11
+!i10b 1
+!s85 0
+Z30 !s108 1705396319.257000
+Z31 !s107 D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mult.v|
+!s101 -O0
+vmux_3_1
+!i10b 1
+Z32 !s100 29Waa^[SjE2Il?Eo5P:_j1
+Z33 I[f?;L0;DWdYkgWk2[2Fb]1
+Z34 VZ1k2i8[NnfAk<z5Ngjkz]1
+R3
+Z35 w1705395572
+Z36 8D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mux_2_1.v
+Z37 FD:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mux_2_1.v
+L0 8
 R7
 r1
 !s85 0
 31
-!s108 1705240384.468000
-!s107 D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/four_bit_adder.v|
-!s90 -reportprogress|300|-work|work|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/four_bit_adder.v|
+!s108 1705396319.323000
+!s107 D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mux_2_1.v|
+Z38 !s90 -reportprogress|300|-work|work|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mux_2_1.v|
 !s101 -O0
 R11

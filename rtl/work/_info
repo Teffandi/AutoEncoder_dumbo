@@ -1,0 +1,125 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ITB\AutoEncoder_shared\AutoEncoder_dumbo\rtl
+vALU
+!i10b 1
+!s100 86N]O<MkjHSDgH3^3zH:H2
+IdDX0lY0MbE;0JRMjcDOXl2
+Z1 V7c]cK7EWIRMmfhUDXLN`R2
+Z2 dD:\ITB\AutoEncoder_shared\AutoEncoder_dumbo\rtl
+Z3 w1705397553
+Z4 8D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/ALU.v
+Z5 FD:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/ALU.v
+L0 12
+Z6 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z7 !s108 1705397562.566000
+Z8 !s107 mux_2_1.v|mult.v|four_bit_adder.v|CLA.v|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/ALU.v|
+Z9 !s90 -reportprogress|300|-work|work|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/ALU.v|
+!s101 -O0
+Z10 o-work work -O0
+Z11 n@a@l@u
+vCLA
+!i10b 1
+Z12 !s100 bkelVKkcS22@cG89eZaX72
+Z13 Ih35oSQgo?9M15OzT`KW^S0
+Z14 VZYR:V`=gjOH]eneDDCM283
+R2
+R3
+Z15 FCLA.v
+R4
+R5
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+R10
+Z16 n@c@l@a
+vfour_bit_adder
+!i10b 1
+Z17 !s100 W>U3OZeokAAfVOzJV[and1
+Z18 I^UUmlNK5NV;@ZLZOJz@1O2
+Z19 V<m<U8>ddgGdSV;0<D5N@A3
+R2
+R3
+Z20 Ffour_bit_adder.v
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+R10
+vmult
+!i10b 1
+Z21 !s100 HB_SN>_nKcSI<DBNgFeSS2
+Z22 I;8OW@1M?=E]jLLU9=NY6b0
+Z23 VWQFo[7iKoQ3E`CC>PUHlo1
+R2
+R3
+Z24 Fmult.v
+R4
+R5
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+R10
+vmux_2_1
+!i10b 1
+Z25 !s100 IW<^z_EKTzg<9XockG1^?1
+Z26 IAPaR=c:mV_JR91ooD`3g10
+Z27 VOJH`fdLIJ2h4B9IXX5IWI0
+R2
+R3
+Z28 Fmux_2_1.v
+R4
+R5
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+R10
+vmux_3_1
+Z29 I[f?;L0;DWdYkgWk2[2Fb]1
+Z30 VZ1k2i8[NnfAk<z5Ngjkz]1
+R2
+Z31 w1705396513
+Z32 8D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mux_2_1.v
+Z33 FD:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mux_2_1.v
+L0 8
+R6
+r1
+31
+R10
+Z34 !s100 29Waa^[SjE2Il?Eo5P:_j1
+Z35 !s108 1705396531.711000
+Z36 !s107 D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mux_2_1.v|
+Z37 !s90 -reportprogress|300|-work|work|D:/ITB/AutoEncoder_shared/AutoEncoder_dumbo/rtl/mux_2_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
